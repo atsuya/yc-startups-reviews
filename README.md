@@ -4,7 +4,7 @@ personal reviews of yc startups. i won't cover all, only interesting ones for
 me.
 
 
-# list
+# references
 
 I use the following lists:
 
